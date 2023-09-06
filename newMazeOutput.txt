@@ -1,0 +1,89 @@
+
+!!! MAZE WITH NO EXIT !!!
+
+File Name: mazeNoExit1.txt
+
+Creature starts at: 10, 8
+xxxxxxxxxx
+x  xxx   x
+x  x     x
+x        x
+x        x
+x        x
+xxxxxxxxxx
+Creature's Path: X
+_______________________________
+
+!!! SIMPLE MAZE !!!
+
+File Name: mazeSimple.txt
+
+Creature starts at: 3, 4
+xxxxxxxxxx
+x++xxx+++x
+x++x*****x
+x+++++++*x
+x+++++++*x
+x+*******x
+xx*xxxxxxx
+Creature's Path: NEEEESSSWWWWWWS
+_______________________________
+
+!!! OUT OF BOUNDS !!!
+
+File Name: maze2.txt
+
+Creature starts at: 10, 8
+xxxxxxxxxxx
+x  xxx   xx
+x  x x    x
+x  x      x
+x  xx    xx
+x         x
+xxxxxxxx xx
+Creature's Path: X
+_______________________________
+
+!!! BAD LOCATION !!!
+
+File Name: maze.txt
+
+Creature starts at: 0, 0
+xxxxxxxxxxxxxxxxxx x
+x     x       xxxx x
+x xxxxx  xxxxx  xx x
+x xxxxx xxxxxxx xx x
+x x          xx xx x
+x xxxxxxxxxx xx    x
+xxxxxxxxxxxxxxxxxxxx
+Creature's Path: X
+_______________________________
+
+!!! MAZE 1 !!!
+
+File Name: maze1.txt
+
+Creature starts at: 4, 8
+xxxxxxxx*xx
+x    xx *xx
+x  x    *xx
+x  xx   * x
+x  x  x   x
+x         x
+xxxxxxxxxxx
+Creature's Path: NNNN
+_______________________________
+
+!!! MAZE 2 !!!
+
+File Name: maze2.txt
+
+Creature starts at: 1, 8
+xxxxxxxxxxx
+x  xxx   xx
+x  x x  * x
+x  x    * x
+x  xx   *xx
+x       * x
+xxxxxxxx*xx
+Creature's Path: SSSSS
